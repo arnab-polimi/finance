@@ -1,0 +1,768 @@
+{
+    "expenses": [
+        {
+            "date": "2025-10-20",
+            "amount": 3.49,
+            "category": "Shopping",
+            "description": "Pencil Sharpener on Amazon"
+        },
+        {
+            "date": "2025-10-21",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-10-17",
+            "amount": 11.99,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-10-18",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-10-18",
+            "amount": 3.5,
+            "category": "Food & Dining",
+            "description": "Focacceria tipica ligure"
+        },
+        {
+            "date": "2025-10-18",
+            "amount": 11.99,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-10-19",
+            "amount": 12.0,
+            "category": "Food & Dining",
+            "description": "Trattoria Cinese"
+        },
+        {
+            "date": "2025-10-19",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-10-20",
+            "amount": 23.93,
+            "category": "Groceries",
+            "description": "Mercato"
+        },
+        {
+            "date": "2025-10-20",
+            "amount": 15.0,
+            "category": "Other",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-10-16",
+            "amount": 10.0,
+            "category": "Other",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-10-17",
+            "amount": 11.7,
+            "category": "Food & Dining",
+            "description": "Trattoria Cinese"
+        },
+        {
+            "date": "2025-10-15",
+            "amount": 6.5,
+            "category": "Food & Dining",
+            "description": "Kebab Via Filadelfia"
+        },
+        {
+            "date": "2025-10-16",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-10-16",
+            "amount": 8.0,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-10-14",
+            "amount": 5.43,
+            "category": "Food & Dining",
+            "description": "Glovo with tickets"
+        },
+        {
+            "date": "2025-10-15",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-10-15",
+            "amount": 0.4,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-10-15",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-10-13",
+            "amount": 9.0,
+            "category": "Food & Dining",
+            "description": "Kebab Via Filadelfia"
+        },
+        {
+            "date": "2025-10-13",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-10-14",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-10-14",
+            "amount": 2.9,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-10-14",
+            "amount": 0.4,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-10-14",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT singl"
+        },
+        {
+            "date": "2025-10-11",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-10-12",
+            "amount": 13.78,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-10-12",
+            "amount": 10.0,
+            "category": "Other",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-10-09",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-10-09",
+            "amount": 55.44,
+            "category": "Healthcare",
+            "description": "Therapy"
+        },
+        {
+            "date": "2025-10-09",
+            "amount": 2.9,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-10-09",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-10-07",
+            "amount": 15.0,
+            "category": "Bills & Utilities",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-10-08",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-10-06",
+            "amount": 17.56,
+            "category": "Groceries",
+            "description": "Glovo supermercato"
+        },
+        {
+            "date": "2025-10-06",
+            "amount": 450.4,
+            "category": "Bills & Utilities",
+            "description": "Rent October"
+        },
+        {
+            "date": "2025-10-07",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-10-07",
+            "amount": 179.95,
+            "category": "Shopping",
+            "description": "Bose Headphone Amazon"
+        },
+        {
+            "date": "2025-10-04",
+            "amount": 18.2,
+            "category": "Food & Dining",
+            "description": "Trattoria Cinese"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 7.0,
+            "category": "Food & Dining",
+            "description": "Focaccia tipica ligure"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 4.0,
+            "category": "Entertainment",
+            "description": "Flying Tiger"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 40.1,
+            "category": "Shopping",
+            "description": "Zara Sweater"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 12.0,
+            "category": "Food & Dining",
+            "description": "MiSicily Granita"
+        },
+        {
+            "date": "2025-10-05",
+            "amount": 4.48,
+            "category": "Food & Dining",
+            "description": "Glovo with tickets"
+        },
+        {
+            "date": "2025-10-02",
+            "amount": 28.5,
+            "category": "Food & Dining",
+            "description": "Pizza 4 Assi"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 13.78,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-10-02",
+            "amount": 8.66,
+            "category": "Entertainment",
+            "description": "Netflix cumulative"
+        },
+        {
+            "date": "2025-10-02",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-10-02",
+            "amount": 20.69,
+            "category": "Groceries",
+            "description": "Mercato"
+        },
+        {
+            "date": "2025-10-02",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2"
+        },
+        {
+            "date": "2025-10-02",
+            "amount": 13.33,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 5.0,
+            "category": "Bills & Utilities",
+            "description": "Bank Commissions"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 100.0,
+            "category": "Investment",
+            "description": "Monthly investment"
+        },
+        {
+            "date": "2025-09-30",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-30",
+            "amount": 8.68,
+            "category": "Transportation",
+            "description": "Lime bike"
+        },
+        {
+            "date": "2025-09-30",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-30",
+            "amount": 359.86,
+            "category": "Bills & Utilities",
+            "description": "EMI and SIP"
+        },
+        {
+            "date": "2025-09-30",
+            "amount": 5.1,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-30",
+            "amount": 4.99,
+            "category": "Entertainment",
+            "description": "Amazon Prime"
+        },
+        {
+            "date": "2025-09-27",
+            "amount": 11.71,
+            "category": "Groceries",
+            "description": "Pam"
+        },
+        {
+            "date": "2025-09-27",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-29",
+            "amount": 25.2,
+            "category": "Entertainment",
+            "description": "Wise Payment"
+        },
+        {
+            "date": "2025-09-25",
+            "amount": 5.43,
+            "category": "Food & Dining",
+            "description": "Glovo with tickets"
+        },
+        {
+            "date": "2025-09-25",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-25",
+            "amount": 1.9,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-25",
+            "amount": 1.1,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-24",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-24",
+            "amount": 0.8,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-23",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-23",
+            "amount": 4.25,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-10-23",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-19",
+            "amount": 13.78,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-09-20",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-21",
+            "amount": 13.78,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-09-19",
+            "amount": 3.5,
+            "category": "Other",
+            "description": "Printing"
+        },
+        {
+            "date": "2025-09-19",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-09-17",
+            "amount": 103.38,
+            "category": "Entertainment",
+            "description": "Veena Flight tickets"
+        },
+        {
+            "date": "2025-09-19",
+            "amount": 2.8,
+            "category": "Food & Dining",
+            "description": "caffe al bar"
+        },
+        {
+            "date": "2025-09-19",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-09-19",
+            "amount": 3.49,
+            "category": "Shopping",
+            "description": "Amazon food thermometer"
+        },
+        {
+            "date": "2025-09-17",
+            "amount": 7.75,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-09-18",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-18",
+            "amount": 8.4,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-18",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-15",
+            "amount": 2.0,
+            "category": "Other",
+            "description": "NYT sub"
+        },
+        {
+            "date": "2025-09-17",
+            "amount": 27.1,
+            "category": "Transportation",
+            "description": "Taxi"
+        },
+        {
+            "date": "2025-09-17",
+            "amount": 4.25,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-16",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-16",
+            "amount": 2.2,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-13",
+            "amount": 33.99,
+            "category": "Shopping",
+            "description": "Monitor Arm Amazon"
+        },
+        {
+            "date": "2025-09-13",
+            "amount": 9.9,
+            "category": "Shopping",
+            "description": "Amazon"
+        },
+        {
+            "date": "2025-09-13",
+            "amount": 18.9,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-09-14",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-14",
+            "amount": 20.0,
+            "category": "Entertainment",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-09-14",
+            "amount": 20.0,
+            "category": "Entertainment",
+            "description": "Veena Paypal"
+        },
+        {
+            "date": "2025-09-15",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2"
+        },
+        {
+            "date": "2025-09-12",
+            "amount": 13.3,
+            "category": "Healthcare",
+            "description": "Ear drops"
+        },
+        {
+            "date": "2025-09-12",
+            "amount": 11.99,
+            "category": "Shopping",
+            "description": "Amazon"
+        },
+        {
+            "date": "2025-09-13",
+            "amount": 13.78,
+            "category": "Food & Dining",
+            "description": "Glovo Kebab"
+        },
+        {
+            "date": "2025-09-11",
+            "amount": 3.7,
+            "category": "Transportation",
+            "description": "GTT daily"
+        },
+        {
+            "date": "2025-09-11",
+            "amount": 0.4,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-10",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-09-10",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-09-08",
+            "amount": 14.99,
+            "category": "Shopping",
+            "description": "Amazon"
+        },
+        {
+            "date": "2025-09-05",
+            "amount": 9.97,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-09-06",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello"
+        },
+        {
+            "date": "2025-09-06",
+            "amount": 5.8,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-09-07",
+            "amount": 3.3,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-09-08",
+            "amount": 450.4,
+            "category": "Bills & Utilities",
+            "description": "Rent September"
+        },
+        {
+            "date": "2025-09-08",
+            "amount": 10.0,
+            "category": "Entertainment",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-09-08",
+            "amount": 50.0,
+            "category": "Entertainment",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-09-05",
+            "amount": 7.14,
+            "category": "Groceries",
+            "description": "Mercato"
+        },
+        {
+            "date": "2025-09-04",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2"
+        },
+        {
+            "date": "2025-09-04",
+            "amount": 1.9,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-04",
+            "amount": 1.4,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-03",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2"
+        },
+        {
+            "date": "2025-09-03",
+            "amount": 3.7,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-02",
+            "amount": 100.0,
+            "category": "Investment",
+            "description": "Investment September"
+        },
+        {
+            "date": "2025-09-02",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-09-02",
+            "amount": 0.8,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-09-01",
+            "amount": 5.0,
+            "category": "Bills & Utilities",
+            "description": "Bank Commisions"
+        }
+    ],
+    "income": [
+        {
+            "date": "2025-09-26",
+            "amount": 1565.0,
+            "source": "Salary",
+            "description": "Salary September"
+        },
+        {
+            "date": "2025-09-17",
+            "amount": 50.0,
+            "source": "Other",
+            "description": "Veena Travel Split"
+        },
+        {
+            "date": "2025-09-15",
+            "amount": 9.0,
+            "source": "Other",
+            "description": "Revolut"
+        },
+        {
+            "date": "2025-10-27",
+            "amount": 1565.0,
+            "source": "Salary",
+            "description": "Salary October"
+        }
+    ]
+}
