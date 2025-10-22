@@ -737,6 +737,492 @@
             "amount": 5.0,
             "category": "Bills & Utilities",
             "description": "Bank Commisions"
+        },
+        {
+            "date": "2025-08-29",
+            "amount": 22.22,
+            "category": "Food & Dining",
+            "description": "Glovo",
+            "emotion": "Tired",
+            "spending_type": "Impulse"
+        },
+        {
+            "date": "2025-08-28",
+            "amount": 5.27,
+            "category": "Food & Dining",
+            "description": "Glovo",
+            "emotion": "Stressed",
+            "spending_type": "Impulse"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 0.8,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 48.38,
+            "category": "Other",
+            "description": "Sending Ma money",
+            "emotion": "Happy",
+            "spending_type": "Planned"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 1.4,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single x 2",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello",
+            "emotion": "Stressed",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-26",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single",
+            "emotion": "Happy",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-26",
+            "amount": 8.0,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Tired",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-26",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-22",
+            "amount": 22.5,
+            "category": "Food & Dining",
+            "description": "GLovo",
+            "emotion": "Tired",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-23",
+            "amount": 5.3,
+            "category": "Other",
+            "description": "Tabacchi purchase unknown"
+        },
+        {
+            "date": "2025-08-23",
+            "amount": 41.0,
+            "category": "Transportation",
+            "description": "Revolut Unknown Transfer",
+            "emotion": "Neutral",
+            "spending_type": "Planned"
+        },
+        {
+            "date": "2025-08-25",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-21",
+            "amount": 5.0,
+            "category": "Food & Dining",
+            "description": "Coffee Cap App"
+        },
+        {
+            "date": "2025-08-25",
+            "amount": 3.5,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-25",
+            "amount": 8.0,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Tired",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-25",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-25",
+            "amount": 10.34,
+            "category": "Groceries",
+            "description": "Pam",
+            "emotion": "Happy",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-20",
+            "amount": 20.65,
+            "category": "Food & Dining",
+            "description": "Glovo",
+            "emotion": "Tired",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-21",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-21",
+            "amount": 8.85,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Neutral",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-20",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT single"
+        },
+        {
+            "date": "2025-08-18",
+            "amount": 2.0,
+            "category": "Entertainment",
+            "description": "NY times subscription"
+        },
+        {
+            "date": "2025-08-20",
+            "amount": 5.2,
+            "category": "Food & Dining",
+            "description": "Mensa",
+            "emotion": "Tired",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-19",
+            "amount": 5.3,
+            "category": "Other",
+            "description": "Tabacchi",
+            "emotion": "Stressed",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-19",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT single x 2"
+        },
+        {
+            "date": "2025-08-19",
+            "amount": 4.8,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-16",
+            "amount": 25.2,
+            "category": "Other",
+            "description": "Bhai Wise Transfer",
+            "emotion": "Happy",
+            "spending_type": "Planned"
+        },
+        {
+            "date": "2025-08-15",
+            "amount": 7.02,
+            "category": "Food & Dining",
+            "description": "Glovo",
+            "emotion": "Happy",
+            "spending_type": "Planned"
+        },
+        {
+            "date": "2025-08-15",
+            "amount": 6.0,
+            "category": "Other",
+            "description": "Tabacchi",
+            "emotion": "Stressed",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-14",
+            "amount": 41.3,
+            "category": "Groceries",
+            "description": "Mercato",
+            "emotion": "Excited",
+            "spending_type": "Planned"
+        },
+        {
+            "date": "2025-08-12",
+            "amount": 6.76,
+            "category": "Food & Dining",
+            "description": "Glovo",
+            "emotion": "Tired",
+            "spending_type": "Impulse"
+        },
+        {
+            "date": "2025-08-12",
+            "amount": 5.5,
+            "category": "Other",
+            "description": "Tabacchi",
+            "emotion": "Stressed",
+            "spending_type": "Impulse"
+        },
+        {
+            "date": "2025-08-12",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-10",
+            "amount": 10.08,
+            "category": "Other",
+            "description": "Wise transfer unknown",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-11",
+            "amount": 450.4,
+            "category": "Bills & Utilities",
+            "description": "Rent August",
+            "emotion": "Angry",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-11",
+            "amount": 15.4,
+            "category": "Groceries",
+            "description": "Mercato"
+        },
+        {
+            "date": "2025-08-08",
+            "amount": 2.0,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-08",
+            "amount": 10.0,
+            "category": "Bills & Utilities",
+            "description": "Iliad",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-08",
+            "amount": 4.0,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-08",
+            "amount": 2.02,
+            "category": "Other",
+            "description": "Wise transfer unknown"
+        },
+        {
+            "date": "2025-08-08",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-08",
+            "amount": 17.48,
+            "category": "Food & Dining",
+            "description": "Glovo",
+            "emotion": "Tired",
+            "spending_type": "Impulse"
+        },
+        {
+            "date": "2025-08-07",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-07",
+            "amount": 1.95,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-07",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-06",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-06",
+            "amount": 3.3,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-05",
+            "amount": 1.56,
+            "category": "Other",
+            "description": "Wise Transfer"
+        },
+        {
+            "date": "2025-08-05",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-05",
+            "amount": 1.4,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-05",
+            "amount": 8.6,
+            "category": "Food & Dining",
+            "description": "Smoking bar Gully"
+        },
+        {
+            "date": "2025-08-02",
+            "amount": 7.85,
+            "category": "Groceries",
+            "description": "Pam"
+        },
+        {
+            "date": "2025-08-02",
+            "amount": 4.3,
+            "category": "Other",
+            "description": "Rubino Marcello\u00f9",
+            "emotion": "Stressed",
+            "spending_type": "Regretful"
+        },
+        {
+            "date": "2025-08-03",
+            "amount": 57.46,
+            "category": "Healthcare",
+            "description": "Therapy",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-03",
+            "amount": 5.0,
+            "category": "Shopping",
+            "description": "Laundry",
+            "emotion": "Angry",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-03",
+            "amount": 2.0,
+            "category": "Shopping",
+            "description": "Laundry",
+            "emotion": "Angry",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-03",
+            "amount": 21.1,
+            "category": "Food & Dining",
+            "description": "Glovo"
+        },
+        {
+            "date": "2025-08-04",
+            "amount": 100.0,
+            "category": "Investment",
+            "description": "",
+            "emotion": "Neutral",
+            "spending_type": "Necessary"
+        },
+        {
+            "date": "2025-08-04",
+            "amount": 3.8,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-04",
+            "amount": 2.3,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-01",
+            "amount": 1.15,
+            "category": "Food & Dining",
+            "description": "Mensa"
+        },
+        {
+            "date": "2025-08-01",
+            "amount": 61.46,
+            "category": "Healthcare",
+            "description": "Decathlon Weights",
+            "emotion": "Excited",
+            "spending_type": "Planned"
+        },
+        {
+            "date": "2025-08-01",
+            "amount": 1.9,
+            "category": "Transportation",
+            "description": "GTT"
+        },
+        {
+            "date": "2025-08-01",
+            "amount": 1.2,
+            "category": "Food & Dining",
+            "description": "Bar"
+        },
+        {
+            "date": "2025-08-01",
+            "amount": 5.0,
+            "category": "Bills & Utilities",
+            "description": "Bank Commissions"
         }
     ],
     "income": [
@@ -763,6 +1249,13 @@
             "amount": 1565.0,
             "source": "Salary",
             "description": "Salary October"
+        },
+        {
+            "date": "2025-08-27",
+            "amount": 1568.0,
+            "source": "Salary",
+            "description": "Capgemini August Salary"
         }
-    ]
+    ],
+    "budgets": {}
 }
